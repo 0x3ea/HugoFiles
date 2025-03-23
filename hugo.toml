@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "0x3ea's Blog"
+theme = 'PaperMod'
